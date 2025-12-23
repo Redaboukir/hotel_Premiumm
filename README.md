@@ -169,4 +169,4 @@ Architecture fullstack professionnelle
 Projet réalisé par :
 Boukir Reda 
 Bouanani Meryem 
-Laktato Mehdi 
+Laktati Mehdi 
